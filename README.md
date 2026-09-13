@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Ryan @PostOakLab
+- 🧑‍🎓 I'm studying information technology at Kennesaw State University
 - 👀 I’m interested in Networking and IT
 - 🌱 I’m currently learning Linux, Docker, VM
 - 💞️ I’m looking to collaborate on projects
